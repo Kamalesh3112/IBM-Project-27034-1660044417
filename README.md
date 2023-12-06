@@ -74,6 +74,7 @@ A person diagnosed with Parkinson’s disease can have other symptoms that inclu
 - RajaRajan R
 
 #### College Name : St. Joseph's Institute of Technology
+> Batch : 2019 - 2023
 
 >##### Team ID : PNT2022TMID28255
 
